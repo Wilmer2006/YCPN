@@ -1,0 +1,214 @@
+.pagina_2 {
+
+    border: dotted 9px black;
+
+}
+
+body {
+
+    width: 90%;
+    margin: auto;
+    margin-left: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: rgba(29, 41, 58, 0.301);
+}
+
+/* CUERPO PAGINA 3 */
+
+.cuerpo {
+
+    width: 90%;
+    padding: 10px;
+    margin: auto;
+
+}
+
+.titulo_general {
+
+    text-align: center;
+    font-size: 40px;
+
+}
+
+/* NAVEGACION */
+
+.navegacion {
+
+    font-size: 20px;
+
+}
+
+/* ELEMENTOS DENTRO DE LA NAVEGACION */
+
+.elemento_1 {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+.elemento_2 {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+.elemento_3 {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+/* PRIMER ARTICULO  */
+
+.articulo_1 {
+
+    background: burlywood;
+    margin: 20px;
+    border: 3px solid black;
+
+}
+
+.titulo_numero_1 {
+
+    text-align: center;
+    margin: 15px 15px auto auto;
+    font-size: 50px;
+
+}
+
+.parrafo_1 {
+
+    text-align: justify;
+    margin: 15px;
+
+}
+
+.pie_de_pagina_1 {
+
+    text-align: center;
+    margin: 15px 15px auto auto;
+
+}
+
+/* INTERMEDIO ARTICULOS 1*/
+
+.intermedio_articulos_1 {
+
+    text-align: center;
+
+}
+
+/* SEGUNDO ARTICULO  */
+
+.articulo_2 {
+
+    background: cadetblue;
+    margin: 20px;
+    border: 3px dashed black;
+
+}
+
+.titulo_numero_2 {
+
+    text-align: center;
+    margin: 15px 15px auto auto;
+    font-size: 50px;
+
+}
+
+.parrafo_2 {
+
+    text-align: justify;
+    margin: 15px;
+
+}
+
+.pie_de_pagina_2 {
+
+    text-align: center;
+    margin: 15px 15px auto auto;
+
+}
+
+/* TERCER ARTICULO  */
+
+.articulo_3 {
+
+    background: #5171a0;
+    margin: 20px;
+    border: 3px dotted black;
+
+}
+
+.titulo_numero_3 {
+
+    text-align: center;
+    margin: 15px 15px auto auto;
+    font-size: 50px;
+
+}
+
+.parrafo_3 {
+
+    text-align: justify;
+    margin: 15px;
+
+}
+
+.pie_de_pagina_3 {
+
+    text-align: center;
+    margin: 15px 15px auto auto;
+
+}
+
+/* PIE DE PAGINA GENERAL 1 */
+
+.pie_de_pagina_general_1 {
+
+    text-align: center;
+
+}
+
+.hipervinculos {
+
+    text-decoration: none;
+
+}
+
+/* IMAGENES */
+
+.imagenes {
+
+    margin: auto;
+    display: block;
+    height: 350px;
+    width: 300px;
+    border: double 3px black;
+    padding: 1em;
+
+}
+
+.imagenes_2 {
+
+    height: 1250px;
+    width: auto;
+    display: block;
+    margin: auto;
+    border: double 2px black;
+
+}
+
+/* COLUMNAS */
+
+.grid {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1em;
+
+}
